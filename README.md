@@ -3,7 +3,7 @@
 
 In script.js, the symbols and values variables contain the elements of a card.
 
-The nested for loop is used to create a pack of cards.
+The first nested for loop is used to create a pack of cards.
 
 We need to create a pack of cards containing each symbol with all the values. So the first for loop iterates over all the symbols and the second for loop iterates over the values. Then, the elements are created and added to the pack array.
 
