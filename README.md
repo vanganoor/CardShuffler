@@ -1,4 +1,3 @@
-# CardShuffler
 # Implementation of a card shuffler using Javascript
 
 # Steps to run:
