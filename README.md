@@ -1,6 +1,14 @@
 # CardShuffler
 # Implementation of a card shuffler using Javascript
 
+# Steps to run:
+Dependency: You need node to run this locally. Go to https://nodejs.org to install the latest stable version.
+1) Open Terminal or Command Prompt.
+2) Set Path to where File is Located (using cd).
+3) Type “node script.js” and Click Enter
+4) You should be able to see the output of first random 7 cards generated after the shuffle.
+
+# Code explanation:
 In script.js, the symbols and values variables contain the elements of a card.
 
 The first nested for loop is used to create a pack of cards.
