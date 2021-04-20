@@ -8,6 +8,8 @@ Dependency: You need node to run this locally. Go to https://nodejs.org to insta
 4) You should be able to see the output of first random 7 cards generated after the shuffle.
 
 # Code explanation:
+I made an assumption of showing the first seven cards after the card shuffling is done.
+
 In script.js, the symbols and values variables contain the elements of a card.
 
 The first nested for loop is used to create a pack of cards.
