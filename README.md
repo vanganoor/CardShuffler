@@ -18,4 +18,4 @@ Math.floor() returns the number by decreasing the value to the nearest integer v
 
 A random number is generated between 0 and 51 and two card positions are swapped.
 
-The third for loop is used to display the first seven cards in the new deck.
+The third for loop is used to display the first seven cards in the new pack.
