@@ -1,0 +1,7 @@
+#Test Cases:
+1) Verify Pack contains  52 cards
+2) Verify there are no duplicates in the pack
+3) Verify the pack has 13 cards in each suit
+4) Verify the pack contains 52 cards after shuffling
+5) Verify the pack contains no duplicates after shuffling
+6) Verify the pack has four cards of each symbol
