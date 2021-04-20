@@ -37,7 +37,7 @@ for (let i = pack.length - 1; i > 0; i--) {
 
 console.log('After the Shuffle, the first seven cards are: ');
 
-// display 7 results
+// display 7 results after card shuffling is done
 for (let i = 0; i < 7; i++) {
     console.log(`${pack[i].Value} of ${pack[i].symbol}`)
 }
